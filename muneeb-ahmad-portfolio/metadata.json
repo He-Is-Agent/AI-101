@@ -1,0 +1,6 @@
+{
+  "name": "Muneeb Ahmad Portfolio",
+  "description": "An editorial portfolio for Muneeb Ahmad, showcasing expertise in computer hardware, gaming systems, and AI models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
